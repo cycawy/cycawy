@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on some fun projects.
 - 🌱 I’m currently learning React JS. 
 
-->## skills<-
+## ->skills<-
 * :electron: React
 * :computer: HTML, CSS, JS
 
