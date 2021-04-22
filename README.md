@@ -1,15 +1,13 @@
 # Hi there 👋, I am Melody.
----
 
 - 🔭 I’m currently working on some fun projects.
 - 🌱 I’m currently learning React JS. 
 
 ## skills
----
 * :electron: React
 * :computer: HTML, CSS, JS
 
-
+## github stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cycawy)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **cycawy/cycawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
