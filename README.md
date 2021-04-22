@@ -1,10 +1,10 @@
-### Hi there 👋, I am Melody.
+# Hi there 👋, I am Melody.
 
 - 🔭 I’m currently working on some fun projects.
 - 🌱 I’m currently learning React JS. 
 
-##skills
-* :atom: HTML5
+#skills
+* :electron: React
 * :computer: HTML, CSS, JS
 
 
