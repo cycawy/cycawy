@@ -4,10 +4,9 @@
 - 🌱 I’m currently learning React JS. 
 
 ##skills
-HTML5
-CSS3
-Javascript
-React JS
+* :atom: HTML5
+* :computer: HTML, CSS, JS
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cycawy)](https://github.com/anuraghazra/github-readme-stats)
 <!--
