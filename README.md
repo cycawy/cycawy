@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on some fun projects.
 - 🌱 I’m currently learning React JS. 
 - 📫 How to reach me: cycawy@gamil.com 
-- ⚡ Fun fact: Besides on programming, I also enjoy hiking, jogging, and travel. 
+- ⚡ Fun fact: Besides on programming, I also enjoy hiking:mountain:, jogging:running_woman:, and travel:sunrise_over_mountains:. 
 
 ## skills
 * :electron: React
